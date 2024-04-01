@@ -1,2 +1,2 @@
 # weather-webite_project
-This i a project ,i have done for BharathIntern virtual internhip.
+This is a project ,i have done for BharathIntern virtual internhip.
